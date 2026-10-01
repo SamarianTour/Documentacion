@@ -16,7 +16,7 @@ El proyecto se enfoca en el **diseño arquitectónico**: definición de atributo
 
 ## 🧭 Metodología
 
-Se adopta **OpenUP** (subconjunto ágil de RUP) con 4 fases y 8 iteraciones de 12 días, distribuidas en los 97 días del semestre (24 de agosto al 28 de noviembre de 2026).
+Se adopta **OpenUP** (subconjunto ágil de RUP) con 4 fases y 12 iteraciones de 15 días.
 
 | Fase | Iteraciones | Foco |
 |---|---|---|
@@ -25,7 +25,6 @@ Se adopta **OpenUP** (subconjunto ágil de RUP) con 4 fases y 8 iteraciones de 1
 | Construcción | 4 | Implementación incremental |
 | Transición | 1 | Despliegue, validación, cierre |
 
-Ver justificación completa en [`docs/00-gestion-proyecto/justificacion-metodologia.md`](docs/00-gestion-proyecto/justificacion-metodologia.md).
 
 ---
 
@@ -33,38 +32,13 @@ Ver justificación completa en [`docs/00-gestion-proyecto/justificacion-metodolo
 
 | Rol | Responsable |
 |---|---|
-| Líder Técnico / Arquitecto | *[por asignar]* |
-| Desarrollador Full-stack | *[por asignar]* |
-| Desarrollador Backend | *[por asignar]* |
-| Analista de Requisitos | *[por asignar]* |
-| Ingeniero QA | *[por asignar]* |
+| Líder Técnico / Arquitecto | Jose Rodriguez |
+| Desarrollador Full-stack | Esteban Puello |
+| Desarrollador Full-stack | Santiago Naranjo |
+| Analista de Requisitos | Laura Perez |
+| Ingeniero QA | Robert Gonzalez |
 
 ---
-
-## 📂 Estructura del repositorio
-
-```
-├── docs/                    Documentación del proyecto (organizada por fase OpenUP)
-│   ├── 00-gestion-proyecto/ Fase Inicio: visión, plan, stakeholders
-│   ├── 01-requerimientos/   Fase Elaboración: ERS, HU, casos de uso, QAS
-│   ├── 02-arquitectura/     Fase Elaboración: diseño, ADRs, diagramas
-│   ├── 03-construccion/     Fase Construcción: iteraciones y evaluaciones
-│   ├── 04-transicion/       Fase Transición: cierre y validación final
-│   └── assets/              Imágenes, diagramas, plantillas
-├── src/                     Código fuente del prototipo
-├── infrastructure/          Docker, CI/CD, despliegue
-├── tests/                   Pruebas unitarias, integración y de escenarios de calidad
-└── scripts/                 Utilitarios
-```
-
----
-
-## 🚀 Cómo navegar la documentación
-
-1. **Para entender el proyecto:** empezar por [`docs/00-gestion-proyecto/vision.md`](docs/00-gestion-proyecto/vision.md)
-2. **Para entender el problema y contexto:** [`docs/00-gestion-proyecto/contexto-problema.md`](docs/00-gestion-proyecto/contexto-problema.md)
-3. **Para ver qué se construirá:** [`docs/01-requerimientos/backlog-inicial.md`](docs/01-requerimientos/backlog-inicial.md)
-4. **Para entender las decisiones de diseño:** [`docs/02-arquitectura/adrs/`](docs/02-arquitectura/adrs/)
 
 ---
 
