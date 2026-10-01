@@ -46,4 +46,4 @@ Se adopta **OpenUP** (subconjunto ágil de RUP) con 4 fases y 12 iteraciones de 
 
 Ver el plan detallado en [`docs/00-gestion-proyecto/plan-openup.xlsx`](docs/00-gestion-proyecto/plan-openup.xlsx).
 
-**Ventana de ejecución:** 24 de agosto — 28 de noviembre de 2026 (97 días · 8 iteraciones)
+**Ventana de ejecución:** 24 de agosto — 28 de noviembre de 2026 prototipo 60%
