@@ -76,6 +76,26 @@ DOCUMENTACION/
 
 ---
 
+## 📚 Índice de documentos
+
+| Corte | Documento | PDF | Editable |
+| :---: | :--- | :---: | :---: |
+| 1 | Entregable 1 · Documento de requerimientos (v3) | [PDF](02-entregables/corte-1/corte1-entregable-1-requerimientos-v3.pdf) | [DOCX](02-entregables/corte-1/corte1-entregable-1-requerimientos-v3.docx) |
+| 1 | Especificación de requisitos (SRS) ISO/IEC/IEEE 29148 · v1.1 | [PDF](02-entregables/corte-1/corte1-srs-iso29148-v1-1.pdf) | [DOCX](02-entregables/corte-1/corte1-srs-iso29148-v1-1.docx) |
+| 1 | Plan, cronograma y presupuesto (v2) | — | [XLSX](02-entregables/corte-1/corte1-plan-cronograma-presupuesto-v2.xlsx) |
+| 2 | Entregable 2 · Documento de diseño | [PDF](02-entregables/corte-2/corte2-entregable-2-diseno.pdf) | [DOCX](02-entregables/corte-2/corte2-entregable-2-diseno.docx) |
+| 3 | **Entrega final (Capstone Design) · documento único** | [PDF](02-entregables/corte-3/corte3-documento-final-capstone.pdf) | [DOCX](02-entregables/corte-3/corte3-documento-final-capstone.docx) |
+| 3 | Especificación de requisitos (SRS) · v1.2, ajustada a lo construido | [PDF](02-entregables/corte-3/corte3-srs-iso29148-v1-2.pdf) | [DOCX](02-entregables/corte-3/corte3-srs-iso29148-v1-2.docx) |
+| 3 | Entregable 1 · Documento de requerimientos (v4) | [PDF](02-entregables/corte-3/corte3-entregable-1-requerimientos-v4.pdf) | [DOCX](02-entregables/corte-3/corte3-entregable-1-requerimientos-v4.docx) |
+| 3 | Plan, cronograma y presupuesto (v3) | — | [XLSX](02-entregables/corte-3/corte3-plan-cronograma-presupuesto-v3.xlsx) |
+| 3 | Diagrama de paquetes detallado | [PDF](02-entregables/corte-3/corte3-diagrama-paquetes-detallado.pdf) | [DOCX](02-entregables/corte-3/corte3-diagrama-paquetes-detallado.docx) |
+| 3 | Evaluación de la arquitectura (ATAM y reevaluación) | [PDF](02-entregables/corte-3/corte3-evaluacion-arquitectura-atam.pdf) | [DOCX](02-entregables/corte-3/corte3-evaluacion-arquitectura-atam.docx) |
+
+El código, los scripts de base de datos y los registros de decisiones están en el repositorio
+[samarianTour-platform](https://github.com/SamarianTour/samarianTour-platform).
+
+---
+
 <div align="center">
 
 _Repositorio de documentación · Proyecto **SamarianTour** · 2026_

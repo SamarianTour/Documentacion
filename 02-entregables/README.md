@@ -16,4 +16,6 @@ ya exportada en PDF y lista para calificar.
 
 | Corte | Entregable | Fecha de entrega | Responsable | Estado |
 | :---: | :--- | :---: | :--- | :---: |
-| 1 | _Por definir_ | — | — | ⏳ |
+| 1 | Entregable 1 (requerimientos v3), SRS v1.1 y plan v2 | — | Equipo | ✅ |
+| 2 | Entregable 2 (diseño de software) | — | Equipo | ✅ |
+| 3 | Entrega final (Capstone Design): documento único, SRS v1.2, Entregable 1 v4, plan v3, diagrama de paquetes y evaluación ATAM | — | Equipo | ⏳ |

@@ -21,9 +21,9 @@ Se adopta **OpenUP** (subconjunto ágil de RUP) con 4 fases y 12 iteraciones de 
 | Fase | Iteraciones | Foco |
 |---|---|---|
 | Inicio | 1 | Visión, alcance, stakeholders, plan |
-| Elaboración | 2 | Requisitos, arquitectura baseline, prototipo arquitectónico |
-| Construcción | 4 | Implementación incremental |
-| Transición | 1 | Despliegue, validación, cierre |
+| Elaboración | 3 | Requisitos, arquitectura baseline, prototipo arquitectónico |
+| Construcción | 6 | Implementación incremental |
+| Transición | 2 | Despliegue, validación, cierre |
 
 
 ---
@@ -44,6 +44,6 @@ Se adopta **OpenUP** (subconjunto ágil de RUP) con 4 fases y 12 iteraciones de 
 
 ## 📅 Detalles
 
-Ver el plan detallado en [`docs/`](docs/00-gestion-proyecto/plan-openup.xlsx).
+Ver el plan detallado en [`corte3-plan-cronograma-presupuesto-v3.xlsx`](../02-entregables/corte-3/corte3-plan-cronograma-presupuesto-v3.xlsx).
 
 **Ventana de ejecución:** 24 de agosto — 28 de noviembre de 2026 prototipo 60%
