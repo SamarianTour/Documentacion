@@ -88,7 +88,8 @@ DOCUMENTACION/
 | 3 | Especificación de requisitos (SRS) · v1.2, ajustada a lo construido | [PDF](02-entregables/corte-3/corte3-srs-iso29148-v1-2.pdf) | [DOCX](02-entregables/corte-3/corte3-srs-iso29148-v1-2.docx) |
 | 3 | Entregable 1 · Documento de requerimientos (v4) | [PDF](02-entregables/corte-3/corte3-entregable-1-requerimientos-v4.pdf) | [DOCX](02-entregables/corte-3/corte3-entregable-1-requerimientos-v4.docx) |
 | 3 | Plan, cronograma y presupuesto (v3) | — | [XLSX](02-entregables/corte-3/corte3-plan-cronograma-presupuesto-v3.xlsx) |
-| 3 | Diagrama de paquetes detallado | [PDF](02-entregables/corte-3/corte3-diagrama-paquetes-detallado.pdf) | [DOCX](02-entregables/corte-3/corte3-diagrama-paquetes-detallado.docx) |
+| 3 | Diagrama de paquetes detallado · v2, actualizado a lo construido (con el módulo bandeja) | [PDF](02-entregables/corte-3/corte3-diagrama-paquetes-detallado-v2.pdf) | [DOCX](02-entregables/corte-3/corte3-diagrama-paquetes-detallado-v2.docx) |
+| 3 | Entregable 2 · Documento de diseño · v2, diagramas actualizados a lo construido | [PDF](02-entregables/corte-3/corte3-entregable-2-diseno-v2.pdf) | [DOCX](02-entregables/corte-3/corte3-entregable-2-diseno-v2.docx) |
 | 3 | Evaluación de la arquitectura (ATAM y reevaluación) | [PDF](02-entregables/corte-3/corte3-evaluacion-arquitectura-atam.pdf) | [DOCX](02-entregables/corte-3/corte3-evaluacion-arquitectura-atam.docx) |
 
 El código, los scripts de base de datos y los registros de decisiones están en el repositorio
